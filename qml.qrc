@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>images/speedmeter.png</file>
+        <file>images/rewsmeter.png</file>
+        <file>images/meterneedle.png</file>
+        <file>images/gearboxbase.png</file>
+        <file>images/gearboxknob.png</file>
+        <file>images/pedal.png</file>
+    </qresource>
+</RCC>
